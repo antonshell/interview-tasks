@@ -8,3 +8,5 @@
 #Solve
 
 See ```data.sql``` and ```query.sql``` files for more details
+
+Or see demo here: http://sqlfiddle.com/#!9/413fc6/1
