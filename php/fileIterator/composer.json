@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jkuchar/bigfiletools": "^2.0"
+    }
+}

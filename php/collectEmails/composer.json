@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paragonie/easydb": "^2.3",
+        "fzaninotto/faker": "^1.7"
+    }
+}
